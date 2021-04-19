@@ -99,7 +99,7 @@ header
 .main-visual {
     width: 100%;
     height: 500px;
-    background-image:url(./image/Mainvisual.jpg) ;
+    background-image:url(./Mainvisual.jpg) ;
     background-position: center;
     background-size: cover;
     margin: 0;
