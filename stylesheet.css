@@ -99,7 +99,7 @@ header
 .main-visual {
     width: 100%;
     height: 500px;
-    background-image:url(./Mainvisual.jpg) ;
+    background-image:url(Mainvisual.jpg) ;
     background-position: center;
     background-size: cover;
     margin: 0;
@@ -222,7 +222,7 @@ Engineer point
 --------------------------------------*/
 .engineer-point {
     height: 587px;
-    background: url(./image/engineerpoint-background.jpg);
+    background: url(engineerpoint-background.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -411,7 +411,7 @@ Step
 --------------------------------------*/
 #step {
     height: 400px;
-    background:url(./image/step-backgroundomage.jpg);
+    background:url(step-backgroundomage.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -628,7 +628,7 @@ Merit
 }
 
 .merit-img1 {
-    background-image: url(./image/merit-img1.jpg);
+    background-image: url(merit-img1.jpg);
     width:100%;
     height: 200px;
     background-size: cover;
@@ -636,7 +636,7 @@ Merit
 }
 
 .merit-img2 {
-    background-image: url(./image/merit-img2.jpg);
+    background-image: url(merit-img2.jpg);
     width:100%;
     height: 200px;
     background-size: cover;
@@ -644,7 +644,7 @@ Merit
 }
 
 .merit-img3 {
-    background-image: url(./image/merit-img3.jpg);
+    background-image: url(merit-img3.jpg);
     width:100%;
     height: 200px;
     background-size: cover;
@@ -695,7 +695,7 @@ Merit
 Member
 --------------------------------------*/
 #member {
-    background-image: url(./image/member-background.jpg);
+    background-image: url(member-background.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -935,7 +935,7 @@ Lecture
 #lecture {
     height: 777px;
     width:100%;
-    background: url(./image/Lecture-background.jpg);
+    background: url(Lecture-background.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -1177,7 +1177,7 @@ flow
 Bankok
 --------------------------------------*/
 #bankok {
-    background: url("./image/bankok-background.jpg");
+    background: url("bankok-background.jpg");
     background-position: center;
     background-size: cover;
     height: 500px;
@@ -1294,7 +1294,7 @@ Value
 #value {
     height: 500px;
     width: 100%;
-    background:url(./image/value-background.jpg);
+    background:url(value-background.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -1687,3 +1687,15 @@ Scroll-button
     opacity: 1;
     transition: all 0.65s;
   }
+
+/*-------------------------------------
+SP
+--------------------------------------*/
+
+@media screen and (min-width: 600px) { {
+
+
+
+
+
+}
